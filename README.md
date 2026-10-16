@@ -1,2 +1,2 @@
 # Computer-Vision-Challenge
-![Logo](poster.png)
+![Logo](poster.pdf)
